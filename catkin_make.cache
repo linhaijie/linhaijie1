@@ -1,0 +1,2 @@
+topic_pub_sub
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=/home/lin/topic_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lin/topic_ws/install -G Unix Makefiles
