@@ -1,0 +1,8 @@
+prefix=/home/lin/topic_ws/devel
+
+Name: topic_vscode_c
+Description: Description of topic_vscode_c
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
